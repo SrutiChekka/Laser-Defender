@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 232446a971928e7458c5916e5a7ae665
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - projectile: {fileID: 3373820252728424695, guid: 2a049b6d20141a2439545153d284b2a0,
+      type: 3}
+  - deathVFX: {fileID: 3373820252728424695, guid: 2a049b6d20141a2439545153d284b2a0,
+      type: 3}
+  - deathSound: {fileID: 8300000, guid: 78b83af588848bd4485d237455fa89e3, type: 3}
+  - shootSound: {fileID: 8300000, guid: 8c5de506ec5030f4787ef7156e6969f9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

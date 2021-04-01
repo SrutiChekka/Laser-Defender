@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4537c22417be39d4494b355e93e9acb9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - laserPrefab: {fileID: 6462685247378198802, guid: e6cd01d1e6a4e4a4f915d35ca488e1d3,
+      type: 3}
+  - deathVFX: {fileID: 4395796858794421429, guid: 1ba412367afd72545a825c674130822d,
+      type: 3}
+  - deathSound: {fileID: 8300000, guid: 78b83af588848bd4485d237455fa89e3, type: 3}
+  - shootSound: {fileID: 8300000, guid: 02d42c4f960439142a27750076d2723a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
